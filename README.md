@@ -1,4 +1,4 @@
-This package has been moved to https://github.com/react-navigation/react-navigation/tree/4.x
+This package has been moved to https://github.com/react-navigation/react-navigation/tree/4.x/packages/tabs
 
 ---
 
